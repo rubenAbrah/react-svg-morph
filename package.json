@@ -38,5 +38,5 @@
     "eslint-config-airbnb": "^0.1.0",
     "eslint-plugin-react": "^3.6.3",
     "webpack": "^1.12.2"
-  }, 
+  } 
 }
